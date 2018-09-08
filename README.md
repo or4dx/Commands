@@ -1,2 +1,2 @@
-# PocketMusic
-Source Code Files for Pocket Music Mobile and Web App V1
+# Commands
+Source Code Files for the Mobile and Web App V1 for an open source project that is a repo for common command lines  
